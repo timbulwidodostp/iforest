@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p iforest Isolation forest model Use iforest With STATA 18
