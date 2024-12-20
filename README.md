@@ -1,6 +1,8 @@
 # iforest
 Isolation forest model Use iforest With STATA 18
 
+https://www.youtube.com/watch?v=r_zU3NFU5Oc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
